@@ -1,5 +1,39 @@
 #EXTM3U  url="https://raw.githubusercontent.com/aabadfer/iptv/main/javtvxxx.m3u"
 ======================================================================Deportes-Cine==================================================================
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png",UNIVERSAL HD
+http://177.93.45.155:6143/play/a00d/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT HD-
+http://177.93.45.155:6143/play/a00l/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png",STAR Channel
+http://177.93.45.155:6143/play/a00i/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png",DHE
+http://187.102.208.152:8000/play/a09p/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/featuredImage.jpg",CIENCIA TV Pluto Tv
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/featuredImage.jpg",Sci-Fi Pluto Tv
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/featuredImage.jpg",Cine Comedia Pluto Tv
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/featuredImage.jpg",Cinema Estelar Pluto Tv
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/featuredImage.jpg",Estrellas en Accion Pluto Tv
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.17.1-be7b5e79fc7cad022e22627cbb64a390ca9429c7&app_name=web&clientDeviceType=0&clientID=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&clientModelNumber=na&country=MX&deviceDNT=false&deviceId=ad898eb8-2f6e-44a2-a0dd-88c27caf1d2a&deviceLat=32.4041&deviceLon=-116.8198&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=94.0&marketingRegion=VE&serverSideAds=true&sessionID=28f7083e-43e6-11ec-ae8b-0242ac110003&sid=28f7083e-43e6-11ec-ae8b-0242ac110003&userId=
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-0.png",Paramount+ PlutoTv
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://www.pikpng.com/pngl/m/6-62684_launch-of-paramount-channel-in-italy-imagem-logo.png",Paramount Channel
+http://181.78.105.146:2000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-multi.jpg",MULTIPREMIER HD
+http://177.234.230.226:8010/play/a00h/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png",WARNER CHANNEL HD
+http://45.166.92.22:58001/play/a049/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png",A&E
+http://45.166.92.22:58001/play/a00p/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png",A&E HD
+http://177.53.153.21:8001/play/a01s/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png",A&E
+http://181.78.105.146:2000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-zfgnF7MLf5o/Vh_h8JD-jmI/AAAAAAAAlrk/GARQZTnnBYQ/s1600/AXN-novo-logotipo2016.png",AXN
+http://181.78.105.146:2000/play/a05y/index.m3u8
 #EXTINF:-1 group-title="✅ 24/7 Cine" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU",cinema 00
 http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507619&extension=ts&play_token=T3HuVEXjrf
 #EXTINF:-1 group-title="✅ 24/7 Cine" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU",cinema  01
