@@ -1,0 +1,82 @@
+#EXTM3U
+#EXTINF:-1 group-title="✅ 24/7 Cine" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU",cinema 00
+http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507619&extension=ts&play_token=T3HuVEXjrf
+#EXTINF:-1 group-title="✅ 24/7 Cine" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU",cinema  01
+http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507617&extension=ts&play_token=GRq1kuwvbY
+#EXTINF:-1 group-title="✅ 24/7 Cine" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU",cinema 02
+http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507616&extension=ts&play_token=vhphKQbwnV
+#EXTINF:-1 group-title="✅ 24/7 Cine" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU",cinema 03
+http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507615&extension=ts&play_token=MDBjCPbHPn
+#EXTINF:-1 group-title="✅ 24/7 Cine" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU",cinema 04
+http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507614&extension=ts&play_token=Xim3PTfIJP
+#EXTINF:-1 group-title="✅ 24/7 Cine" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU",cinema 05
+http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507609&extension=ts&play_token=Uwexr4qpwy
+#EXTINF:-1 group-title="✅ 24/7 Cine" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU",cinema 06
+http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507612&extension=ts&play_token=dvsszwS27o
+#EXTINF:-1 group-title="✅ 24/7 Cine" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU",cinema 07
+http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507611&extension=ts&play_token=Mja1pamiAk
+#EXTINF:-1 group-title="✅ 24/7 Cine" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaVqp0N7SyQ33hEp01N4MxhMIRmN0mdnmRw&usqp=CAU",cinema 08
+http://line.terratv.online:80/play/live.php?mac=00:1A:79:C3:B1:22&stream=507610&extension=ts&play_token=E4jzoJufIQ
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-cinecanal.png",CINE| Cinecanal
+http://gotv.vip:8880/Angel2023/Angel2023/36
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-golden-edge.png",CINE| Golden EDGE
+http://gotv.vip:8880/Angel2023/Angel2023/85
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-golden-premiere.png",CINE| Golden Premier
+http://gotv.vip:8880/Angel2023/Angel2023/245
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-golden.png",CINE| Golden
+http://gotv.vip:8880/Angel2023/Angel2023/244
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-golden.png",CINE| Golden Plus
+http://gotv.vip:8880/Angel2023/Angel2023/86
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-AMC.png",CINE| amc
+http://gotv.vip:8880/Angel2023/Angel2023/16
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-AyE.png",CINE| A&E
+http://gotv.vip:8880/Angel2023/Angel2023/6
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-star-channel.png",CINE| START CHANNEL
+http://gotv.vip:8880/Angel2023/Angel2023/36282
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-AXN.png",CINE| AXN
+http://gotv.vip:8880/Angel2023/Angel2023/19
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-FX.png",CINE| FX
+http://gotv.vip:8880/Angel2023/Angel2023/80
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-warner.png",CINE| WARNER
+http://gotv.vip:8880/Angel2023/Angel2023/366
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-TCM.png",CINE| TCM
+http://gotv.vip:8880/Angel2023/Angel2023/120
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-TNT.png",CINE| TNT
+http://gotv.vip:8880/Angel2023/Angel2023/243
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="http://descargas.podzone.net/logos/-TNT-series.png",CINE| TNT SERIES
+http://gotv.vip:8880/Angel2023/Angel2023/365
+#EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2uos7rleuxwdig6i5z23k/fmtv.png?rlkey=fyoa2s4fxlp4rmvd0zlcagokq&dl=0",CINE| fmtv fusion
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:-1 group-title="⭐️ Cultura" tvg-logo="http://descargas.podzone.net/logos/-animal-planet.png",CUL| Animal Planet
+http://gotv.vip:8880/Angel2023/Angel2023/17
+#EXTINF:-1 group-title="⭐️ Cultura" tvg-logo="http://descargas.podzone.net/logos/-discovery-home-&-health.png",CUL| Discovery. H&H
+http://gotv.vip:8880/Angel2023/Angel2023/46
+#EXTINF:-1  group-title="Bics Extra", FOX Sports 
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12257
+#EXTINF:-1  group-title="Bics Extra", FOX Sports 2
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12259
+#EXTINF:-1  group-title="Bics Extra", FOX Sports 3
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12258
+#EXTINF:-1  group-title="Bics Extra", ESPN 
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12278
+#EXTINF:-1  group-title="Bics Extra", ESPN 2
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12283
+#EXTINF:-1  group-title="Bics Extra", ESPN 3
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12281
+#EXTINF:-1  group-title="Bics Extra", TUDN MX
+http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12197
+#EXTINF:-1  group-title="Bics Extra", M+ La Liga 
+http://515860080856165393.of23103.xyz:80/play/XDH31455298/664585696/165393.ts
+#EXTINF:-1  group-title="Bics Extra", Tigo Sports
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+#EXTINF:-1  group-title="Bics Extra", Claro Sports
+http://190.6.202.162:8000/play/a014/index.m3u8
+#EXTINF:-1  group-title="Bics Extra", Claro Sports 2
+#EXTINF:-1  group-title="Bics Extra", ESPN USA
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=1342325947&_cdn_timestamp=1698766886&_cdn_token=8d4e875ec2ded940d521e4bb253a054f2399e215
+#EXTINF:-1  group-title="Bics Extra", ESPN 2 USA
+#EXTINF:-1  group-title="Bics Extra",  Fox Sports 2 USA
+https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=1342326243&_cdn_timestamp=1698766893&_cdn_token=13f42cbe7cd0cdab3690634c8e2a588996ac8d44
+#EXTINF:-1 group-title="Bics Extra", USA | HBO
+http://177.53.153.21:8001/play/a03b/index.m3u8
+#EXTINF:-1 group-title="Bics Extra", USA | HBO 2
