@@ -92,31 +92,33 @@ http://gotv.vip:8880/Angel2023/Angel2023/365
 #EXTINF:-1 group-title="⭐️ Cine Premium" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2uos7rleuxwdig6i5z23k/fmtv.png?rlkey=fyoa2s4fxlp4rmvd0zlcagokq&dl=0",CINE| fmtv fusion
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 ===================================Deportes=======================================
-#EXTINF:-1  group-title="Bics Extra", FOX Sports 
+#EXTINF:-1  group-title="DEPORTES", FOX Sports 
 http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12257
-#EXTINF:-1  group-title="Bics Extra", FOX Sports 2
+#EXTINF:-1  group-title="DEPORTES", FOX Sports 2
 http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12259
-#EXTINF:-1  group-title="Bics Extra", FOX Sports 3
+#EXTINF:-1  group-title="DEPORTES", FOX Sports 3
 http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12258
-#EXTINF:-1  group-title="Bics Extra", ESPN 
+#EXTINF:-1  group-title="DEPORTES", ESPN 
 http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12278
-#EXTINF:-1  group-title="Bics Extra", ESPN 2
+#EXTINF:-1  group-title="DEPORTES", ESPN 2
 http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12283
-#EXTINF:-1  group-title="Bics Extra", ESPN 3
+#EXTINF:-1  group-title="DEPORTES", ESPN 3
 http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12281
-#EXTINF:-1  group-title="Bics Extra", TUDN MX
+#EXTINF:-1  group-title="DEPORTES", TUDN MX
 http://bunkertp.xyz:8000/zoommaster/t9wvcgPVHy/12197
-#EXTINF:-1  group-title="Bics Extra", M+ La Liga 
+#EXTINF:-1  group-title="DEPORTES", M+ La Liga 
 http://515860080856165393.of23103.xyz:80/play/XDH31455298/664585696/165393.ts
-#EXTINF:-1  group-title="Bics Extra", Tigo Sports
+#EXTINF:-1  group-title="DEPORTES", Tigo Sports
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
-#EXTINF:-1  group-title="Bics Extra", Claro Sports
+#EXTINF:-1  group-title="DEPORTES", Claro Sports
 http://190.6.202.162:8000/play/a014/index.m3u8
-#EXTINF:-1  group-title="Bics Extra", Claro Sports 2
-#EXTINF:-1  group-title="Bics Extra", ESPN USA
+#EXTINF:-1  group-title="DEPORTES", Claro Sports 2
+http://45.5.117.182:8000/play/a0e5/index.m3u8
+#EXTINF:-1  group-title="DEPORTES", ESPN USA
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/ESPN/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESPN2_stream_et&_cdn_session=1342325947&_cdn_timestamp=1698766886&_cdn_token=8d4e875ec2ded940d521e4bb253a054f2399e215
-#EXTINF:-1  group-title="Bics Extra", ESPN 2 USA
-#EXTINF:-1  group-title="Bics Extra",  Fox Sports 2 USA
+#EXTINF:-1  group-title="DEPORTES", ESPN 2 USA
+https://cdn2.eco.cdn.moderntv.eu/econocable/stream/ESPN2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DESNP_stream_zq&_cdn_session=1342327883&_cdn_timestamp=1698766938&_cdn_token=726eb12d088f8f802bbf74a62f08a87b5ed6fa0a
+#EXTINF:-1  group-title="DEPORTES",  Fox Sports 2 USA
 https://cdn1.eco.cdn.moderntv.eu/econocable/stream/FOXSPORTS2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXSPORTS2_stream_j2&_cdn_session=1342326243&_cdn_timestamp=1698766893&_cdn_token=13f42cbe7cd0cdab3690634c8e2a588996ac8d44
 ============================================================XXX========================================
 #EXTINF:-1 tvg-id="AdultIPTVnetAnal.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="XXX",AdultIPTV.net Anal (720p)
