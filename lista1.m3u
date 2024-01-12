@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1,CINE: M+ CINE FHD
-http://cartatv.es:8080/Bernardo/123456789/93186
-#EXTINF:-1,CINE: M+ Cine  HD 720p
-http://cartatv.es:8080/Bernardo/123456789/184133
-#EXTINF:-1,CINE: M + CINE SD
-http://cartatv.es:8080/Bernardo/123456789/93185
 #EXTINF:-1,CINE: M+ Indie SD
 http://cartatv.es:8080/Bernardo/123456789/583065
 #EXTINF:-1,CINE: M+ Indie HD
