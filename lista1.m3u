@@ -1,4 +1,4 @@
-#EXTM3U http://cartatv.es:8080/get.php?username=Bernardo&password=123456789&type=m3u
+#EXTM3U
 #EXTINF:-1,M+: El Toro TV FHD
 http://cartatv.es:8080/Bernardo/123456789/565647
 #EXTINF:-1,M+ 24 HORAS SD
