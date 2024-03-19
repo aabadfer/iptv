@@ -1,4 +1,5 @@
 #EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1,M+: El Toro TV FHD
 http://cartatv.es:8080/Bernardo/123456789/565647
 #EXTINF:-1,M+ 24 HORAS SD
