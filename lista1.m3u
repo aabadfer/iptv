@@ -1,4 +1,4 @@
-#EXTM3U url="http://cartatv.es:8080/get.php?username=Bernardo&password=123456789&type=m3u"
+#EXTM3U
 #EXTINF:-1,⚽ M+  LIGA CAMPEONES
 http://cartatv.es:8080/bE3J5EpBFp/8yYxVFeegK/466870
 #EXTINF:-1,ESPN 2 (H265)
@@ -51,5 +51,71 @@ http://runpoint.pro:80/Marca19/z499gFJ/147.ts
 http://runpoint.pro:80/Marca19/z499gFJ/148.ts
 #EXTINF:-1,ESPN SD
 http://runpoint.pro:80/Marca19/z499gFJ/149.ts
-#EXTINF:-1,[ES] MOVISTAR LIGA CAMPEONES HD
-http://nilplus.xyz:8080/alitoprak/E3Zmn7EQ25EL/102325
+#EXTINF:-1,HBO MAX 1
+http://pbrz.xyz:80/252525/252525/1597
+#EXTINF:-1,HBO MAX 2
+http://pbrz.xyz:80/252525/252525/1598
+#EXTINF:-1,HBO MAX 3
+http://pbrz.xyz:80/252525/252525/1599
+#EXTINF:-1,HBO MAX 4
+http://pbrz.xyz:80/252525/252525/1600
+#EXTINF:-1,DE: DAZN 1 Bar HEVC
+http://vivanettv.xyz:8080/ahmetaltintas12ay/vjcak295uy/50361
+#EXTINF:-1,DE: DAZN 2 Bar HEVC
+http://vivanettv.xyz:8080/ahmetaltintas12ay/vjcak295uy/50362
+#EXTINF:-1,DE: DAZN 1 Vip
+http://vivanettv.xyz:8080/ahmetaltintas12ay/vjcak295uy/48746
+#EXTINF:-1,DE: DAZN 1 FHD
+http://vivanettv.xyz:8080/ahmetaltintas12ay/vjcak295uy/2244
+#EXTINF:-1,DE: DAZN 1 HD
+http://vivanettv.xyz:8080/ahmetaltintas12ay/vjcak295uy/2243
+#EXTINF:-1,DE: DAZN 1 SD
+http://vivanettv.xyz:8080/ahmetaltintas12ay/vjcak295uy/672345
+#EXTINF:-1,DE: DAZN 2 Vip
+http://vivanettv.xyz:8080/ahmetaltintas12ay/vjcak295uy/102861
+#EXTINF:-1,DE: DAZN 2 FHD
+http://vivanettv.xyz:8080/ahmetaltintas12ay/vjcak295uy/2246
+#EXTINF:-1,DE: DAZN 2 HD
+http://vivanettv.xyz:8080/ahmetaltintas12ay/vjcak295uy/2245
+#EXTINF:-1,DE: DAZN 2 SD
+http://vivanettv.xyz:8080/ahmetaltintas12ay/vjcak295uy/672346
+#EXTINF:-1,DE: DAZN SPORT 1 KABEL
+http://vivanettv.xyz:8080/ahmetaltintas12ay/vjcak295uy/191726
+#EXTINF:-1,DE: DAZN SPORT 1 HEVC
+http://vivanettv.xyz:8080/ahmetaltintas12ay/vjcak295uy/191727
+#EXTINF:-1,DE: DAZN SPORT 1 FHD
+http://vivanettv.xyz:8080/ahmetaltintas12ay/vjcak295uy/191728
+#EXTINF:-1,DE: DAZN SPORT 1 HD
+http://vivanettv.xyz:8080/ahmetaltintas12ay/vjcak295uy/191729
+#EXTINF:-1,DE: DAZN SPORT 2 KABEL
+http://vivanettv.xyz:8080/ahmetaltintas12ay/vjcak295uy/191730
+#EXTINF:-1,DE: DAZN SPORT 2 HEVC
+http://vivanettv.xyz:8080/ahmetaltintas12ay/vjcak295uy/191731
+#EXTINF:-1,DE: DAZN SPORT 2 FHD
+http://vivanettv.xyz:8080/ahmetaltintas12ay/vjcak295uy/191732
+#EXTINF:-1,DE: DAZN SPORT 2 HD
+http://vivanettv.xyz:8080/ahmetaltintas12ay/vjcak295uy/191733
+#EXTINF:-1,DE: DAZN Rise
+http://vivanettv.xyz:8080/ahmetaltintas12ay/vjcak295uy/512245
+#EXTINF:-1,DE: DAZN Fast
+http://vivanettv.xyz:8080/ahmetaltintas12ay/vjcak295uy/512246
+#EXTINF:-1,DE: DAZN EUROSPORT 1 FHD
+http://vivanettv.xyz:8080/ahmetaltintas12ay/vjcak295uy/191734
+#EXTINF:-1,DE: DAZN EUROSPORT 1 HD
+http://vivanettv.xyz:8080/ahmetaltintas12ay/vjcak295uy/191735
+#EXTINF:-1,DE: DAZN EUROSPORT 2 FHD
+http://vivanettv.xyz:8080/ahmetaltintas12ay/vjcak295uy/191736
+#EXTINF:-1,DE: DAZN EUROSPORT 2 HD
+http://vivanettv.xyz:8080/ahmetaltintas12ay/vjcak295uy/191737
+#EXTINF:-1,DE: DAZN SPORTDIGITAL FHD
+http://vivanettv.xyz:8080/ahmetaltintas12ay/vjcak295uy/191738
+#EXTINF:-1,DE: DAZN SPORTDIGITAL HD
+http://vivanettv.xyz:8080/ahmetaltintas12ay/vjcak295uy/191739
+#EXTINF:-1,DE: DAZN NBA HD
+http://vivanettv.xyz:8080/ahmetaltintas12ay/vjcak295uy/191740
+#EXTINF:-1,DE: DAZN NFL NETWORK HD
+http://vivanettv.xyz:8080/ahmetaltintas12ay/vjcak295uy/191741
+#EXTINF:-1,DE: DAZN MLB HD
+http://vivanettv.xyz:8080/ahmetaltintas12ay/vjcak295uy/191742
+#EXTINF:-1,DE: DAZN LFC TV HD
+http://vivanettv.xyz:8080/ahmetaltintas12ay/vjcak295uy/191743
