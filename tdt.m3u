@@ -68,3 +68,71 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/udlaspalmasoficial/picture?width=200&height=200" group-title="Deportivos" tvg-name="UD Las Palmas TV",UD Las Palmas TV
 https://cdn307.fractalmedia.es/live317/hls/cudtv/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/MundoNautica/picture?width=200&height=200" group-title="Deportivos" tvg-name="Mundo Nautica",Mundo Nautica
+https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/mypadeltv/picture?width=200&height=200" group-title="Deportivos" tvg-name="MyPadel TV",MyPadel TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/futsalmafer.tv/picture?width=200&height=200" group-title="Deportivos" tvg-name="Futsalmafer.tv",Futsalmafer.tv
+https://vdo.grupolimalive.com:3398/stream/play.m3u8
+#EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantiles" tvg-name="Clan",Clan GEO
+https://ztnr.rtve.es/ztnr/5466990.m3u8
+#EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantiles" tvg-name="Clan",Clan GEO
+https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8
+#EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="Infantiles" tvg-name="Clan",Clan
+https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayerkidz/picture?width=200&height=200" group-title="Infantiles" tvg-name="Kidz",Kidz
+https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="Infantiles" tvg-name="Pequeradio TV",Pequeradio TV
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="Eventuales" tvg-name="+24",+24
+https://ztnr.rtve.es/ztnr/6108696.m3u8
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="Eventuales" tvg-name="+24",+24
+https://ztnr.rtve.es/ztnr/6108703.m3u8
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="Eventuales" tvg-name="+24",+24
+https://ztnr.rtve.es/ztnr/6108704.m3u8
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="Eventuales" tvg-name="+24",+24
+https://ztnr.rtve.es/ztnr/6108706.m3u8
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="Eventuales" tvg-name="+24",+24
+https://ztnr.rtve.es/ztnr/6108720.m3u8
+#EXTINF:-1 tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="Eventuales" tvg-name="+24",+24
+https://ztnr.rtve.es/ztnr/6108721.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Eventuales" tvg-name="+tdp",+tdp
+https://ztnr.rtve.es/ztnr/6712432.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Eventuales" tvg-name="+tdp",+tdp
+https://ztnr.rtve.es/ztnr/6712453.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Eventuales" tvg-name="+tdp",+tdp
+https://ztnr.rtve.es/ztnr/6712402.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Eventuales" tvg-name="+tdp",+tdp
+https://ztnr.rtve.es/ztnr/6712407.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Eventuales" tvg-name="+tdp",+tdp
+https://ztnr.rtve.es/ztnr/6712431.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Eventuales" tvg-name="+tdp",+tdp
+https://ztnr.rtve.es/ztnr/6712410.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Eventuales" tvg-name="+tdp",+tdp
+https://ztnr.rtve.es/ztnr/6712426.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Eventuales" tvg-name="+tdp",+tdp
+https://ztnr.rtve.es/ztnr/6712411.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="Eventuales" tvg-name="+tdp",+tdp
+https://ztnr.rtve.es/ztnr/6712456.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Hd2WYs49wYCBMAphVpvvpBzd-EJFU8XFQgccPIw=s200" group-title="Eventuales" tvg-name="¡HOLA! Play",¡HOLA! Play
+https://022d66c197dd4a1e9008e0134a74f34e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_HolaPlay/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/flooxer/picture?width=200&height=200" group-title="Eventuales" tvg-name="flooxer",flooxer
+https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="Eventuales" tvg-name="Atresplayer Clásicos",Atresplayer Clásicos
+https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="Eventuales" tvg-name="Atresplayer Comedia",Atresplayer Comedia
+https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="Eventuales" tvg-name="Atresplayer Mentes Inquietas",Atresplayer Mentes Inquietas
+https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/atresplayer/picture?width=200&height=200" group-title="Eventuales" tvg-name="Atresplayer Multicine",Atresplayer Multicine
+https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/elhormiguero/picture?width=200&height=200" group-title="Eventuales" tvg-name="El Hormiguero",El Hormiguero
+https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/ElClubDeLaComediaEnlaSexta/picture?width=200&height=200" group-title="Eventuales" tvg-name="El club de la comedia",El club de la comedia
+https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/EqInvestigacion/picture?width=200&height=200" group-title="Eventuales" tvg-name="Equipo de investigación",Equipo de investigación
+https://fast-channels.atresmedia.com/648ef5551756b0e429af83cc/648ef5551756b0e429af83cc.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/AQUINHQV/picture?width=200&height=200" group-title="Eventuales" tvg-name="Aquí no hay quién viva",Aquí no hay quién viva
+https://fast-channels.atresmedia.com/648ef3951756b0e425af83cc/648ef3951756b0e425af83cc.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/fisicaoquimica/picture?width=200&height=200" group-title="Eventuales" tvg-name="Física o química",Física o química
+https://fast-channels.atresmedia.com/648ef50a2bfab0e4607e0d61/648ef50a2bfab0e4607e0d61.m3u8
