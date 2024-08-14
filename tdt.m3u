@@ -68,8 +68,7 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/udlaspalmasoficial/picture?width=200&height=200" group-title="Deportivos" tvg-name="UD Las Palmas TV",UD Las Palmas TV
 https://cdn307.fractalmedia.es/live317/hls/cudtv/master.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/MundoNautica/picture?width=200&height=200" group-title="Deportivos" tvg-name="Mundo Nautica",Mundo Nautica
-https://cloud.fastchannel.es/mic/manifiest/hls/mundonautica/mundonautica.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/mypadeltv/picture?width=200&height=200" group-title="Deportivos" tvg-name="MyPadel TV",MyPadel TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/futsalmafer.tv/picture?width=200&height=200" group-title="Deportivos" tvg-name="Futsalmafer.tv",Futsalmafer.tv
